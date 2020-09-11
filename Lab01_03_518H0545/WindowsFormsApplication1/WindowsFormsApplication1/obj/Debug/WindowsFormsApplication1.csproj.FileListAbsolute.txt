@@ -1,0 +1,9 @@
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\OneDrive\Desktop\Lab_01\Lab01_03_518H0545\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\bin\Debug\518H0545_Lab01_01.exe.config
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\bin\Debug\518H0545_Lab01_01.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\bin\Debug\518H0545_Lab01_01.pdb
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\_518H0545_Lab01_01.Form1.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\_518H0545_Lab01_01.Properties.Resources.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.csproj.GenerateResource.Cache
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.pdb
+D:\OneDrive\Documents\Visual Studio 2015\Projects\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.csprojResolveAssemblyReference.cache
+E:\VisualStudioProject\518H0545_Lab01_01\518H0545_Lab01_01\bin\Debug\518H0545_Lab01_01.exe.config
+E:\VisualStudioProject\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.exe
+E:\VisualStudioProject\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.pdb
+D:\OneDrive\Desktop\Lab_01\518H0545_Lab01_01\518H0545_Lab01_01\bin\Debug\518H0545_Lab01_01.exe.config
+D:\OneDrive\Desktop\Lab_01\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.exe
+D:\OneDrive\Desktop\Lab_01\518H0545_Lab01_01\518H0545_Lab01_01\obj\Debug\518H0545_Lab01_01.pdb

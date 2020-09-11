@@ -1,0 +1,18 @@
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.exe.config
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.pdb
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.Form1.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.Properties.Resources.resources
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.csproj.GenerateResource.Cache
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.exe
+D:\OneDrive\Documents\Visual Studio 2015\Projects\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.pdb
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.exe.config
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.exe
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.pdb
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.exe
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\bin\Debug\Lab01_02_518H0545.pdb
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.csprojResolveAssemblyReference.cache
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.Form1.resources
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.Properties.Resources.resources
+D:\OneDrive\Desktop\Lab_01\Lab01_02_518H0545\Lab01_02_518H0545\obj\Debug\Lab01_02_518H0545.csproj.GenerateResource.Cache
